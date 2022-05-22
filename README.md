@@ -17,7 +17,6 @@ Divided according to departments, The subjects common to all departments are fou
 - [IS Department Subjects](#IS-Department-Subjects)
 - [IT Department Subjects](#IT-Department-Subjects)
 - [Bioinformatics Department Subjects](#Bioinformatics-Department-Subjects)
-- [Artificial Intelligence Department Subjects](#Artificial-Intelligence-Department-Subjects)
 - [Software Engineering Department Subjects](#Software-Engineering-Department-Subjects)
 
 
