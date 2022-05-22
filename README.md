@@ -77,7 +77,7 @@ and Algorithms, 2nd Ed., Springer-Verlag London, 2017](https://link.springer.com
 
 
 #### Expert Systems
-1. 
+1. [Selected Topics Only in Francisco Iacobelli Channel](https://www.youtube.com/watch?v=UjQ1AzSvCp8&list=PLjTSKEJpqIeDrUYF7DKspT2r9H38vg5dC)
 
 ## Software Engineering Department Subjects
 
