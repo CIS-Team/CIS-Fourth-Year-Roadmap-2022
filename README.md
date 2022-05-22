@@ -37,17 +37,14 @@ Divided according to departments, The subjects common to all departments are fou
 
 ### Previous Contributions
 - [Previous Years Materials](https://drive.google.com/drive/folders/1KWBohlh-rC1tlGtliRaA9qtCHFt_8ohy?lfhs=2)
-### External Resources 
-
 
 ## IT Department Subjects
-
 ### Current Contributions
 
 #### Medical Image Analysis - Health Information Management
 1. [Eyad Hamza - Health Information Management Revision](https://www.youtube.com/playlist?list=PLIzoD6CTXb3-8wtWh-bRXYPZ9zIDCa_Qd)
 
-##### Computer security:
+##### Computer Security:
 1. [Revision For Lectures & Sections](https://drive.google.com/drive/folders/12QkkRSi1BtU3FLqrA1q-IBWeLajDEqyK?usp=sharing)
 
 #### Data Mining
@@ -55,11 +52,8 @@ Divided according to departments, The subjects common to all departments are fou
 
 #### Biometrics
 - [Telegram Channel](https://t.me/+lDC9JTCoWl45Mzhk)
-
 ### Previous Contributions
 1. [Previous Years Materials](https://drive.google.com/drive/folders/1sspJ6qSkQ9bZvL2D8RIm1a4Pw2Oi7Adc)
-
-
 
 ### External Resources
 
@@ -86,8 +80,6 @@ Divided according to departments, The subjects common to all departments are fou
 ### Previous Contributions
 #### Scope Materials
 1. [Scope Materials](https://drive.google.com/drive/folders/1pxVJmjnKlQVVTPiGWsU55BKSzfSOEQqs)
-
-
 ### External Resources 
 
 #### Medical Image Analysis - Health Information Management
@@ -106,15 +98,10 @@ Divided according to departments, The subjects common to all departments are fou
 ## Software Engineering Department Subjects
 
 ### Current Contributions
-
 #### Data Mining
 1. [Data Mining Revision](https://drive.google.com/drive/folders/1weWTs4BqO4g0jwQGjbLtNeerf2QksHhM)
 
-
-### Previous Contributions
-
-### External Resources 
-
+### External Resources
 #### Data Mining
 1. [Data Mining Algorithms - Classification](https://www.youtube.com/playlist?list=PLyhJeMedQd9SK3sBYTAl-OMVB4DrVcCQt)
 2. [Data Mining Algorithms – Clustering](https://www.youtube.com/playlist?list=PLyhJeMedQd9StPc1Tt4iU-rWPVX5grztS)
