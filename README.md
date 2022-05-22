@@ -73,6 +73,10 @@ Divided according to departments, The subjects common to all departments are fou
 #### Medical Image Analysis - Health Information Management
 1. [Eyad Hamza - Health Information Management Revision](https://www.youtube.com/playlist?list=PLIzoD6CTXb3-8wtWh-bRXYPZ9zIDCa_Qd)
 
+#### Expert Systems
+1. [Eyad Hamza - Expert Systems](https://www.youtube.com/playlist?list=PLIzoD6CTXb39M4xzRc8MmVyvkym37TF7k)
+#### Data Center Management
+1. [Eyad Hamza - Data Center Management](https://www.youtube.com/playlist?list=PLIzoD6CTXb38ARa6FQc8ivzwZeilcQnkj)
 #### Data Mining
 1. [Data Mining Revision](https://drive.google.com/drive/folders/1weWTs4BqO4g0jwQGjbLtNeerf2QksHhM)
 
