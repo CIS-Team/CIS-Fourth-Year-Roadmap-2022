@@ -45,6 +45,9 @@ Divided according to departments, The subjects common to all departments are fou
 
 ### External Resources 
 
+#### Expert Systems
+1. [Selected Topics Only in Francisco Iacobelli Channel Playlist](https://www.youtube.com/watch?v=UjQ1AzSvCp8&list=PLjTSKEJpqIeDrUYF7DKspT2r9H38vg5dC)
+
 
 ## IS Department Subjects
 
@@ -65,7 +68,15 @@ Divided according to departments, The subjects common to all departments are fou
 
 
 
-### External Resources 
+### External Resources
+
+#### Medical Image Analysis - Health Information Management
+1. [Book - Klaus D. Toennies, Guide to Medical Image Analysis](https://link.springer.com/book/10.1007/978-1-4471-7320-5)
+
+#### Data Mining
+1. [Data Mining Algorithms - Classification](https://www.youtube.com/playlist?list=PLyhJeMedQd9SK3sBYTAl-OMVB4DrVcCQt)
+2. [Data Mining Algorithms – Clustering](https://www.youtube.com/playlist?list=PLyhJeMedQd9StPc1Tt4iU-rWPVX5grztS)
+
 
 ## Bioinformatics Department Subjects
 
