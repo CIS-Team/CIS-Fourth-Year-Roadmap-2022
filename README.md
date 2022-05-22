@@ -23,14 +23,8 @@ Divided according to departments, The subjects common to all departments are fou
 
 ## CS Department Subjects
 
-### Current Contributions
-
-
 ### Previous Contributions
 - [Previous Years Materials](https://drive.google.com/drive/folders/1yqHz9vh7VPw6rNhcJucnZ2QMvG-zeYYa?lfhs=2)
-
-### External Resources 
-
 
 ## IS Department Subjects
 
@@ -38,6 +32,8 @@ Divided according to departments, The subjects common to all departments are fou
 #### Data Mining
 1. [Data Mining Revision](https://drive.google.com/drive/folders/1weWTs4BqO4g0jwQGjbLtNeerf2QksHhM)
 
+#### GIS
+1. [Lectures Revision](https://drive.google.com/drive/folders/1eXlXGQlm3pOA0Hkiq22KHttnetGHkkGW?usp=sharing)
 
 ### Previous Contributions
 - [Previous Years Materials](https://drive.google.com/drive/folders/1KWBohlh-rC1tlGtliRaA9qtCHFt_8ohy?lfhs=2)
@@ -57,9 +53,8 @@ Divided according to departments, The subjects common to all departments are fou
 #### Data Mining
 1. [Data Mining Revision](https://drive.google.com/drive/folders/1weWTs4BqO4g0jwQGjbLtNeerf2QksHhM)
 
-#### GIS
-1. [Lectures Revision](https://drive.google.com/drive/folders/1eXlXGQlm3pOA0Hkiq22KHttnetGHkkGW?usp=sharing)
-
+#### Biometrics
+- [Telegram Channel](https://t.me/+lDC9JTCoWl45Mzhk)
 
 ### Previous Contributions
 1. [Previous Years Materials](https://drive.google.com/drive/folders/1sspJ6qSkQ9bZvL2D8RIm1a4Pw2Oi7Adc)
@@ -86,7 +81,8 @@ Divided according to departments, The subjects common to all departments are fou
 1. [Eyad Hamza - Data Center Management](https://www.youtube.com/playlist?list=PLIzoD6CTXb38ARa6FQc8ivzwZeilcQnkj)
 #### Data Mining
 1. [Data Mining Revision](https://drive.google.com/drive/folders/1weWTs4BqO4g0jwQGjbLtNeerf2QksHhM)
-
+#### Biometrics 
+- [Telegram Channel](https://t.me/+lDC9JTCoWl45Mzhk)
 ### Previous Contributions
 #### Scope Materials
 1. [Scope Materials](https://drive.google.com/drive/folders/1pxVJmjnKlQVVTPiGWsU55BKSzfSOEQqs)
@@ -98,11 +94,10 @@ Divided according to departments, The subjects common to all departments are fou
 1. [Book - Klaus D. Toennies, Guide to Medical Image Analysis](https://link.springer.com/book/10.1007/978-1-4471-7320-5)
 
 #### Expert Systems
-1. [Selected Topics Only in Francisco Iacobelli Channel Playlist](https://www.youtube.com/watch?v=UjQ1AzSvCp8&list=PLjTSKEJpqIeDrUYF7DKspT2r9H38vg5dC)
+1. [Francisco Iacobelli Channel Playlist](https://www.youtube.com/watch?v=UjQ1AzSvCp8&list=PLjTSKEJpqIeDrUYF7DKspT2r9H38vg5dC)
 
 #### Data Center Management
-1. [Selected Topics in
-   Jordan Barlow Channel Playlist](https://www.youtube.com/playlist?list=PLCLbf8d2YbrUMKdKR9QLsTvx4_hwrZeNS)
+1. [Jordan Barlow Channel Playlist](https://www.youtube.com/playlist?list=PLCLbf8d2YbrUMKdKR9QLsTvx4_hwrZeNS)
 
 #### Data Mining
 1. [Data Mining Algorithms - Classification](https://www.youtube.com/playlist?list=PLyhJeMedQd9SK3sBYTAl-OMVB4DrVcCQt)
