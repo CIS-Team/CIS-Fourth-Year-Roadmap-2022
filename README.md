@@ -58,13 +58,14 @@
 ## Bioinformatics Department Subjects
 
 ### Current Contributions
+#### Medical Image Analysis - Health Information Management
 1. [Eyad Hamza - Health Information Management Revision](https://www.youtube.com/playlist?list=PLIzoD6CTXb3-8wtWh-bRXYPZ9zIDCa_Qd)
 
 
 ### Previous Contributions
 
-#### Biometrics
-1. [Biometrics Revision Materials](https://t.me/+lDC9JTCoWl45Mzhk)
+#### Scope Materials
+1. [Scope Materials](https://drive.google.com/drive/folders/1pxVJmjnKlQVVTPiGWsU55BKSzfSOEQqs)
 
 
 ### External Resources 
@@ -76,6 +77,7 @@ and Algorithms, 2nd Ed., Springer-Verlag London, 2017](https://link.springer.com
 
 
 #### Expert Systems
+1. 
 
 ## Software Engineering Department Subjects
 
