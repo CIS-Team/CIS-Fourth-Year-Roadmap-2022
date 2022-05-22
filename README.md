@@ -1,5 +1,16 @@
 # CIS-Fourth-Year-Roadmap-2022
 
+## About Roadmap:
+> This is a roadmap for the Fourth year of all departments in the Faculty of Computer and Information, which can help you study your subjects.
+
+## Content:
+Divided according to departments, The subjects common to all departments are found in the All Departments Section.
+
+#### Each subject is divided into three main sections :
+- Previous contributions: resources from students from previous batches.
+- Current Contributions:  sources for our fellow batch colleagues.
+- External sources: sources that you can use to help you study your materials.
+
 ## Index:
 - [Subjects For All Department](#Subjects-For-All-Department)
 - [CS Department Subjects](#CS-Department-Subjects)
@@ -12,11 +23,8 @@
 
 ## Subjects For All Departments
 
-### Current Contributions
-
-
 ### Previous Contributions
-
+- [Drive For All Departments Subjects](https://drive.google.com/drive/folders/1N4P5Y75wSjt3P4jAKZWtWJbAIAUiDrUB?lfhs=2)
 
 ### External Resources 
 
@@ -58,14 +66,13 @@
 ## Bioinformatics Department Subjects
 
 ### Current Contributions
-#### Medical Image Analysis - Health Information Management
 1. [Eyad Hamza - Health Information Management Revision](https://www.youtube.com/playlist?list=PLIzoD6CTXb3-8wtWh-bRXYPZ9zIDCa_Qd)
 
 
 ### Previous Contributions
 
-#### Scope Materials
-1. [Scope Materials](https://drive.google.com/drive/folders/1pxVJmjnKlQVVTPiGWsU55BKSzfSOEQqs)
+#### Biometrics
+1. [Biometrics Revision Materials](https://t.me/+lDC9JTCoWl45Mzhk)
 
 
 ### External Resources 
@@ -77,7 +84,6 @@ and Algorithms, 2nd Ed., Springer-Verlag London, 2017](https://link.springer.com
 
 
 #### Expert Systems
-1. [Selected Topics Only in Francisco Iacobelli Channel](https://www.youtube.com/watch?v=UjQ1AzSvCp8&list=PLjTSKEJpqIeDrUYF7DKspT2r9H38vg5dC)
 
 ## Software Engineering Department Subjects
 
