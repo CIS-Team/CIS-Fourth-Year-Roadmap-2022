@@ -52,6 +52,8 @@ Divided according to departments, The subjects common to all departments are fou
 ## IS Department Subjects
 
 ### Current Contributions
+#### Data Mining
+1. [Data Mining Revision](https://drive.google.com/drive/folders/1weWTs4BqO4g0jwQGjbLtNeerf2QksHhM)
 
 
 ### Previous Contributions
@@ -68,6 +70,10 @@ Divided according to departments, The subjects common to all departments are fou
 
 #### Data Mining
 1. [Data Mining Revision](https://drive.google.com/drive/folders/1weWTs4BqO4g0jwQGjbLtNeerf2QksHhM)
+
+#### GIS
+1. [Lectures Revision](https://drive.google.com/drive/folders/1eXlXGQlm3pOA0Hkiq22KHttnetGHkkGW?usp=sharing)
+
 
 ### Previous Contributions
 1. [Previous Years Materials](https://drive.google.com/drive/folders/1sspJ6qSkQ9bZvL2D8RIm1a4Pw2Oi7Adc)
