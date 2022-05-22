@@ -66,6 +66,9 @@ Divided according to departments, The subjects common to all departments are fou
 ##### Computer security:
 1. [Revision For Lectures & Sections](https://drive.google.com/drive/folders/12QkkRSi1BtU3FLqrA1q-IBWeLajDEqyK?usp=sharing)
 
+#### Data Mining
+1. [Data Mining Revision](https://drive.google.com/drive/folders/1weWTs4BqO4g0jwQGjbLtNeerf2QksHhM)
+
 ### Previous Contributions
 1. [Previous Years Materials](https://drive.google.com/drive/folders/1sspJ6qSkQ9bZvL2D8RIm1a4Pw2Oi7Adc)
 
@@ -73,7 +76,6 @@ Divided according to departments, The subjects common to all departments are fou
 
 ### External Resources
 
-https://drive.google.com/drive/folders/1zz1ZJ22T0DOXyKhmtvyXN54U-CrZ0gR7?usp=sharing
 #### Medical Image Analysis - Health Information Management
 1. [Book - Klaus D. Toennies, Guide to Medical Image Analysis](https://link.springer.com/book/10.1007/978-1-4471-7320-5)
 
