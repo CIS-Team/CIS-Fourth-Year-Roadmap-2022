@@ -77,8 +77,11 @@ and Algorithms, 2nd Ed., Springer-Verlag London, 2017](https://link.springer.com
 
 
 #### Expert Systems
-1. [Selected Topics Only in Francisco Iacobelli Channel](https://www.youtube.com/watch?v=UjQ1AzSvCp8&list=PLjTSKEJpqIeDrUYF7DKspT2r9H38vg5dC)
+1. [Selected Topics Only in Francisco Iacobelli Channel Playlist](https://www.youtube.com/watch?v=UjQ1AzSvCp8&list=PLjTSKEJpqIeDrUYF7DKspT2r9H38vg5dC)
 
+#### Data Center Management
+1. [Selected Topics in
+   Jordan Barlow Channel Playlist](https://www.youtube.com/playlist?list=PLCLbf8d2YbrUMKdKR9QLsTvx4_hwrZeNS)
 ## Software Engineering Department Subjects
 
 ### Current Contributions
