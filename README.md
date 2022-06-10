@@ -51,6 +51,17 @@ Divided according to departments, The subjects common to all departments are fou
 
 #### Biometrics
 - [Telegram Channel](https://t.me/+lDC9JTCoWl45Mzhk)
+
+#### Computer Vision
+- [Revision For Lectures & Sections with Source Code for Each Lab](https://github.com/fadyehabamer/ComputerVision-SandBox)
+
+#### Mobile Computing
+- [Revision For Lectures & Sections](https://github.com/fadyehabamer/MobileComputing-Sandbox)
+
+### BioInformatics
+- [Revision For Some important Algorithms](https://github.com/fadyehabamer/BioInformatics-SandBox)
+
+
 ### Previous Contributions
 -  [Previous Years Materials](https://drive.google.com/drive/folders/1sspJ6qSkQ9bZvL2D8RIm1a4Pw2Oi7Adc)
 
